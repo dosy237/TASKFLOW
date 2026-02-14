@@ -27,7 +27,7 @@ TaskFlow est une application web moderne de gestion de tâches permettant aux ut
 - Créer une nouvelle tâche (titre, catégorie, priorité, date limite)
 - Supprimer une tâche
 - Marquer une tâche comme terminée (avec animation)
-- Animation confetti quand toutes les tâches sont terminées 🎉
+- Animation confetti quand toutes les tâches sont terminées 
 
 ###  Filtres et Organisation
 - Filtrer par statut : Toutes, Actives, Terminées
